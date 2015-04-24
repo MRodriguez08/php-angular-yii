@@ -1,0 +1,22 @@
+[
+    {
+       "id" : 1,
+       "title" : "",
+       "address" : {
+           "location" : "",
+           "lat" : 11111,
+           "lon" : 11111
+       },
+       "categories" : [
+           1, 2, 3
+       ]
+       ,       
+       "images" : [
+           "/asdnalsdh/añsdklhalskd/lkahsdlkasd.jpg",
+           "/asdnalsdh/añsdklhalskd/lkahsdlkasd.jpg",
+           "/asdnalsdh/añsdklhalskd/lkahsdlkasd.jpg",
+           "/asdnalsdh/añsdklhalskd/lkahsdlkasd.jpg",
+           "/asdnalsdh/añsdklhalskd/lkahsdlkasd.jpg"
+       ]
+    }
+]

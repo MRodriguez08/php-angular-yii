@@ -1,0 +1,18 @@
+{
+    "brand": {
+        "title" : {
+            "create" : "Create brand",
+            "update" : "Edit brand",
+            "list" : "List brands"
+    	},     
+        "form" : {
+
+        },
+        "grid" : {
+            "id" : "Id",
+            "name" : "Name",
+            "nationality" : "Nationality",
+            "location" : "Location"
+        }
+    }
+}

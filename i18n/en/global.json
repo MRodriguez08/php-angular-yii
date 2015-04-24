@@ -1,0 +1,23 @@
+{
+    "global": {
+        "title": "AngularYiiApp",
+        "buttons": {
+            "edit": "Edit",
+            "refresh": "Refresh",
+            "delete": "Delete",
+            "create": "Create",
+            "back": "Back"
+        },
+        "menu": {
+            "home": "Home",
+            "brand": {
+                "main": "Brands",
+                "list": "List brands",
+                "create": "Create brand",
+                "attributes": {
+                    "id": "id"
+                }
+            }
+        }
+    }
+}

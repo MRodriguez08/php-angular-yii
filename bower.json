@@ -1,0 +1,26 @@
+{
+  "name": "php-angular-yii",
+  "version": "0.0.0",
+  "homepage": "https://github.com/MRodriguez08/php-angular-yii",
+  "authors": [
+    "Mauricio Rodriguez <mau.rod.81090@gmail.com>"
+  ],
+  "description": "Single page app with AngularJs and Yii Framework",
+  "main": "app.js",
+  "keywords": [
+    "AngularJs",
+    "Yii",
+    "PHP"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular-ui-grid": "~3.0.0-rc.20"
+  }
+}
